@@ -7,7 +7,7 @@
 
 1.vpc
 
-  1)서울리전-> VPC 2개 -> 각 VPC 2개(Public,Private) 
+  1)서울리전-> VPC 1개 -> 각 VPC 1개(Public,Private) 
   
   2)IGW
   

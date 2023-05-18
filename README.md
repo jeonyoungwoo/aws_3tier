@@ -6,6 +6,10 @@
 
 
 1.vpc
+
   1)서울리전-> VPC 2개 -> 각 VPC 2개(Public,Private) 
+  
   2)IGW
+  
+  3)Route Talbes
     

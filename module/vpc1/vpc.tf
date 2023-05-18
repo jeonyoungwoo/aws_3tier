@@ -47,3 +47,12 @@ resource "aws_subnet" "private2" {
     Name = "pribate2"
   }
 }
+
+##igw
+
+resource "aws_internet_gateway" "igw" {
+  vpc_id = aws_vpc.vpc.id
+  tags = {
+    Name = "terraform-igw"
+  }
+}
